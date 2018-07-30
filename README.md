@@ -13,6 +13,6 @@
 
 # **Day 1**
 
-- [Stupid Apps and Changing the World (DPF)](https://github.com/abdallahMurad/PatelBootCamp2018/blob/master/PDF/Day%201/No.%203%20-%20Stupid%20Apps%20and%20Changing%20the%20World.pdf)
+- [**Stupid Apps and Changing the World (DPF)**](https://github.com/abdallahMurad/PatelBootCamp2018/blob/master/PDF/Day%201/No.%203%20-%20Stupid%20Apps%20and%20Changing%20the%20World.pdf)
 
-- [Do Things That Don't Scale (DPF)](https://github.com/abdallahMurad/PatelBootCamp2018/blob/master/PDF/Day%201/No.%204%20-%20Do%20Things%20That%20Don't%20Scale.pdf)
+- [**Do Things That Don't Scale (DPF)**](https://github.com/abdallahMurad/PatelBootCamp2018/blob/master/PDF/Day%201/No.%204%20-%20Do%20Things%20That%20Don't%20Scale.pdf)
