@@ -10,8 +10,8 @@
 
 - [**Good and Bad Reasons to Become an Entrepreneur (PDF)**](https://github.com/abdallahMurad/PatelBootCamp2018/blob/master/PDF/Day%200/No.%202%20-%20Good%20and%20Bad%20Reasons%20to%20Become%20an%20Entrepreneur.pdf)
 
----
-#**Day 1**
+
+# **Day 1**
 
 - [Stupid Apps and Changing the World (DPF)](https://github.com/abdallahMurad/PatelBootCamp2018/blob/master/PDF/Day%201/No.%203%20-%20Stupid%20Apps%20and%20Changing%20the%20World.pdf)
 
